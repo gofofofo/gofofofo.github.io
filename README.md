@@ -1,1 +1,1 @@
-# gofofofo.github.io
+# shortyproxy.org
